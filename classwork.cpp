@@ -1,9 +1,12 @@
-#include <iostream>
-#include <string>
+//ckassswork.cpp
+#include<iostream>
 
 int main()
 {
-  // write code here
-  
-  return 0;
+  int age = 16;
+  int pet = 0;
+  int grade = 11;
+
+  double price = 19.99;
+  return 0 =;
 }
